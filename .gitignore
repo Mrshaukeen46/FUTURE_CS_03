@@ -1,0 +1,8 @@
+
+# Ignore keys and uploaded files
+.key
+encrypted_files/
+tmp/
+__pycache__/
+.env
+instance/
